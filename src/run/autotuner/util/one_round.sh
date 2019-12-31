@@ -37,6 +37,10 @@ new_target_stat_is_better ()
 	fi
 }
 
+if [ -z "$1" ] ; then
+	echo Missing argument: mode
+	exit 1
+fi
 
 mode=$1
 read round n m vnn vpn vnm vpm bfs_t sssp_t < checkpoint$mode
