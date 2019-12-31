@@ -87,7 +87,7 @@ if [ "$vpm" -le 0 ] ; then vpm=1 ; fi
 
 echo Last contest:
 test_run_with_config $n_n $n_m
-if [ "$n"="$n_n" && "$m"="$n_m" ] ; then
+if [ "$n"="$n_n" ] && [ "$m"="$n_m" ] ; then
 	bfs_t=$(( (bfs_t + bfs_nt) / 2 ))
 	sssp_t=$(( (sssp_t + $sssp_nt) / 2 ))
 elif new_target_stat_is_better $bfs_t $sssp_t $bfs_nt $sssp_nt $mode ; then
