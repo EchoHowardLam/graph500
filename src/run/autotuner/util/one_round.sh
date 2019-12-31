@@ -63,7 +63,7 @@ if [ "$((RANDOM % 4))" -eq '0' ] ; then
 fi
 if [ "$((RANDOM % 4))" -eq '0' ] ; then
 	test_run_with_config $n $((m+vpm))
-	if new_target_stat_is_better $bfs_t $sssp_t $bfs_nt $sssp_nt $mode ; then vpm=$((vpm+1)) ; else vpm=$((vpm-1)) ; fi
+	if new_target_stat_is_better $bfs_t $sssp_t $bfs_nt $sssp_nt $mode ; then vpm=$((vpm*2)) ; else vpm=$((vpm-1)) ; fi
 fi
 
 round=$((round+1))
@@ -76,7 +76,7 @@ elif [ "$vpn" -lt "$vnn" ] ; then
 fi
 if [ "$vpm" -gt "$vnm" ] ; then
 	if [ "$vpm" -gt 0 ] ; then n_m=$((m+vpm)) ; fi
-elif [ "$vpm" -gt "$vnm" ] ; then
+elif [ "$vpm" -lt "$vnm" ] ; then
 	if [ "$vnm" -gt 0 ] ; then n_m=$((m-vnm)) ; fi
 fi
 
@@ -87,7 +87,10 @@ if [ "$vpm" -le 0 ] ; then vpm=1 ; fi
 
 echo Last contest:
 test_run_with_config $n_n $n_m
-if new_target_stat_is_better $bfs_t $sssp_t $bfs_nt $sssp_nt $mode ; then
+if [ "$n"="$n_n" && "$m"="$n_m" ] ; then
+	bfs_t=$(( (bfs_t + bfs_nt) / 2 ))
+	sssp_t=$(( (sssp_t + $sssp_nt) / 2 ))
+elif new_target_stat_is_better $bfs_t $sssp_t $bfs_nt $sssp_nt $mode ; then
 	n=$n_n
 	m=$n_m
 	bfs_t=$bfs_nt
