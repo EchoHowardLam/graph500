@@ -18,7 +18,7 @@ test_run_with_config ()
 	elif [ "$1" -ge 24 ] ; then read bfs_nt sssp_nt < <(echo 0e1 0e1) ;
 	elif [ "$2" -le 4  ] ; then read bfs_nt sssp_nt < <(echo 0e1 0e1) ;
 	else
-	read bfs_nt sssp_nt < <(mpirun -np 16 ../../graph500_reference_bfs_sssp $1 $2 |& grep 'mean_TEPS' | tr -s ' ' | cut -d' ' -f4 | tr '\n' ' ')
+	read bfs_nt sssp_nt < <(mpirun -np 16 ../../../graph500_reference_bfs_sssp $1 $2 |& grep 'mean_TEPS' | tr -s ' ' | cut -d' ' -f4 | tr '\n' ' ')
 	fi
 	echo $bfs_nt $sssp_nt
 }
@@ -71,12 +71,12 @@ n_n=$n
 n_m=$m
 if [ "$vpn" -gt "$vnn" ] ; then
 	if [ "$vpn" -gt 0 ] ; then n_n=$((n+vpn)) ; fi
-else
+elif [ "$vpn" -lt "$vnn" ] ; then
 	if [ "$vnn" -gt 0 ] ; then n_n=$((n-vnn)) ; fi
 fi
 if [ "$vpm" -gt "$vnm" ] ; then
 	if [ "$vpm" -gt 0 ] ; then n_m=$((m+vpm)) ; fi
-else
+elif [ "$vpm" -gt "$vnm" ] ; then
 	if [ "$vnm" -gt 0 ] ; then n_m=$((m-vnm)) ; fi
 fi
 
