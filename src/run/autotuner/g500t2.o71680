@@ -1,0 +1,993 @@
+Round 153 17 130
+Offset 1 1 1 32
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.67266e+08 1.15779e+08
+Last contest:
+Testing n=18 m=162 Results=2.93273e+08 1.49034e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 154 17 130 1 1 1 32 2.9053e+08 1.54543e+08
+Round 154 17 130
+Offset 1 1 1 32
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=162 Results=2.90226e+08 1.57103e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 155 17 162 1 1 1 32 2.90226e+08 1.57103e+08
+Round 155 17 162
+Offset 1 1 1 32
+Old TEPS: 2.90226e+08 1.57103e+08
+Last contest:
+Testing n=17 m=194 Results=2.90368e+08 1.61409e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 156 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 156 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.92256e+08 1.36597e+08
+Last contest:
+Testing n=16 m=226 Results=2.81383e+08 1.4413e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 157 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 157 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.91048e+08 1.6051e+08
+Last contest:
+Testing n=17 m=226 Results=2.8613e+08 1.5897e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 158 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 158 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=226 Results=2.90922e+08 1.61339e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 159 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 159 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.70503e+08 1.41927e+08
+Last contest:
+Testing n=18 m=226 Results=2.89586e+08 1.51277e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 160 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 160 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.53466e+08 1.4182e+08
+Last contest:
+Testing n=18 m=226 Results=2.94767e+08 1.42689e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 161 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 161 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=226 Results=2.89189e+08 1.59459e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 162 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 162 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=226 Results=2.9028e+08 1.60437e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 163 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 163 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=226 Results=2.90445e+08 1.61315e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 164 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 164 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.91056e+08 1.60457e+08
+Last contest:
+Testing n=17 m=226 Results=2.86791e+08 1.60842e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 165 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 165 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=226 Results=2.87123e+08 1.6037e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 166 17 194 1 1 1 32 2.90368e+08 1.61409e+08
+Round 166 17 194
+Offset 1 1 1 32
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.90831e+08 1.60429e+08
+Testing n=17 m=226 Results=2.9015e+08 1.61024e+08
+Last contest:
+Testing n=17 m=225 Results=2.90231e+08 1.61119e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 167 17 194 1 1 1 31 2.90368e+08 1.61409e+08
+Round 167 17 194
+Offset 1 1 1 31
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.68861e+08 1.41057e+08
+Testing n=17 m=225 Results=2.90376e+08 1.60689e+08
+Last contest:
+Testing n=18 m=224 Results=2.93831e+08 1.53905e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 168 17 194 1 1 1 30 2.90368e+08 1.61409e+08
+Round 168 17 194
+Offset 1 1 1 30
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=224 Results=2.9008e+08 1.59364e+08
+Last contest:
+Testing n=17 m=223 Results=2.90799e+08 1.61145e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 169 17 194 1 1 1 29 2.90368e+08 1.61409e+08
+Round 169 17 194
+Offset 1 1 1 29
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=223 Results=2.89799e+08 1.60705e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 170 17 194 1 1 1 29 2.90368e+08 1.61409e+08
+Round 170 17 194
+Offset 1 1 1 29
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=223 Results=2.89664e+08 1.60707e+08
+Last contest:
+Testing n=17 m=222 Results=2.90281e+08 1.59293e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 171 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 171 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=222 Results=2.90262e+08 1.59691e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 172 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 172 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=222 Results=2.89441e+08 1.59812e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 173 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 173 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.91152e+08 1.60418e+08
+Last contest:
+Testing n=17 m=222 Results=2.8905e+08 1.60838e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 174 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 174 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=222 Results=2.90629e+08 1.60711e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 175 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 175 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=222 Results=2.90418e+08 1.613e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 176 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 176 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=222 Results=2.90481e+08 1.61292e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 177 17 194 1 1 1 28 2.90368e+08 1.61409e+08
+Round 177 17 194
+Offset 1 1 1 28
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.88353e+08 1.58986e+08
+Testing n=17 m=222 Results=2.28102e+08 1.47581e+08
+Last contest:
+Testing n=17 m=221 Results=2.89164e+08 1.59816e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 178 17 194 1 1 1 27 2.90368e+08 1.61409e+08
+Round 178 17 194
+Offset 1 1 1 27
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.69619e+08 1.40522e+08
+Testing n=18 m=194 Results=2.94539e+08 1.53137e+08
+Last contest:
+Testing n=17 m=221 Results=2.90105e+08 1.61141e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 179 17 194 1 1 1 27 2.90368e+08 1.61409e+08
+Round 179 17 194
+Offset 1 1 1 27
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.94204e+08 1.51902e+08
+Last contest:
+Testing n=16 m=221 Results=2.74146e+08 1.44934e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 180 17 194 1 1 1 27 2.90368e+08 1.61409e+08
+Round 180 17 194
+Offset 1 1 1 27
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.94309e+08 1.37126e+08
+Last contest:
+Testing n=16 m=221 Results=2.67826e+08 1.40687e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 181 17 194 1 1 1 27 2.90368e+08 1.61409e+08
+Round 181 17 194
+Offset 1 1 1 27
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=221 Results=2.90129e+08 1.59733e+08
+Last contest:
+Testing n=17 m=220 Results=2.89681e+08 1.60589e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 182 17 194 1 1 1 26 2.90368e+08 1.61409e+08
+Round 182 17 194
+Offset 1 1 1 26
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=220 Results=2.89952e+08 1.603e+08
+Last contest:
+Testing n=17 m=219 Results=2.90972e+08 1.60973e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 183 17 194 1 1 1 25 2.90368e+08 1.61409e+08
+Round 183 17 194
+Offset 1 1 1 25
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.69998e+08 1.40938e+08
+Last contest:
+Testing n=18 m=219 Results=2.94469e+08 1.52541e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 184 17 194 1 1 1 25 2.90368e+08 1.61409e+08
+Round 184 17 194
+Offset 1 1 1 25
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.90971e+08 1.6066e+08
+Last contest:
+Testing n=17 m=219 Results=2.9056e+08 1.59738e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 185 17 194 1 1 1 25 2.90368e+08 1.61409e+08
+Round 185 17 194
+Offset 1 1 1 25
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.93842e+08 1.37155e+08
+Last contest:
+Testing n=16 m=219 Results=2.7375e+08 1.4398e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 186 17 194 1 1 1 25 2.90368e+08 1.61409e+08
+Round 186 17 194
+Offset 1 1 1 25
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.94319e+08 1.38653e+08
+Testing n=17 m=193 Results=2.8425e+08 1.57103e+08
+Testing n=17 m=219 Results=2.90683e+08 1.60458e+08
+Last contest:
+Testing n=16 m=218 Results=2.73245e+08 1.44363e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 187 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 187 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.93324e+08 1.53031e+08
+Last contest:
+Testing n=16 m=218 Results=2.73764e+08 1.43787e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 188 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 188 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.70089e+08 1.39706e+08
+Testing n=18 m=194 Results=2.93126e+08 1.54049e+08
+Last contest:
+Testing n=17 m=218 Results=2.90814e+08 1.61043e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 189 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 189 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.69756e+08 1.40288e+08
+Last contest:
+Testing n=18 m=218 Results=2.94162e+08 1.53182e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 190 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 190 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=218 Results=2.89967e+08 1.60512e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 191 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 191 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=218 Results=2.90711e+08 1.60903e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 192 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 192 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.91081e+08 1.37065e+08
+Last contest:
+Testing n=16 m=218 Results=2.74744e+08 1.45235e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 193 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 193 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.94608e+08 1.49584e+08
+Last contest:
+Testing n=16 m=218 Results=2.73784e+08 1.43728e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 194 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 194 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.89888e+08 1.6006e+08
+Last contest:
+Testing n=17 m=218 Results=2.87756e+08 1.61317e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 195 17 194 1 1 1 24 2.90368e+08 1.61409e+08
+Round 195 17 194
+Offset 1 1 1 24
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.86511e+08 1.5799e+08
+Testing n=17 m=218 Results=2.89911e+08 1.6039e+08
+Last contest:
+Testing n=17 m=217 Results=2.9067e+08 1.60069e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 196 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 196 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=217 Results=2.89557e+08 1.59194e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 197 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 197 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=217 Results=2.89268e+08 1.5903e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 198 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 198 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=18 m=194 Results=2.94727e+08 1.37104e+08
+Testing n=17 m=193 Results=2.83511e+08 1.56644e+08
+Last contest:
+Testing n=16 m=217 Results=2.73199e+08 1.4534e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 199 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 199 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=217 Results=2.90779e+08 1.6072e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 200 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 200 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.7017e+08 1.40656e+08
+Last contest:
+Testing n=18 m=217 Results=2.94818e+08 1.39672e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 201 17 194 1 1 1 23 2.90368e+08 1.61409e+08
+Round 201 17 194
+Offset 1 1 1 23
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=217 Results=2.90546e+08 1.58855e+08
+Last contest:
+Testing n=17 m=216 Results=2.89701e+08 1.58514e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 202 17 194 1 1 1 22 2.90368e+08 1.61409e+08
+Round 202 17 194
+Offset 1 1 1 22
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.90506e+08 1.60201e+08
+Last contest:
+Testing n=17 m=216 Results=2.88479e+08 1.59614e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 203 17 194 1 1 1 22 2.90368e+08 1.61409e+08
+Round 203 17 194
+Offset 1 1 1 22
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=216 Results=2.90605e+08 1.59399e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 204 17 194 1 1 1 22 2.90368e+08 1.61409e+08
+Round 204 17 194
+Offset 1 1 1 22
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=17 m=193 Results=2.90196e+08 1.59749e+08
+Testing n=17 m=216 Results=2.89618e+08 1.5929e+08
+Last contest:
+Testing n=17 m=215 Results=2.88622e+08 1.58295e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 205 17 194 1 1 1 21 2.90368e+08 1.61409e+08
+Round 205 17 194
+Offset 1 1 1 21
+Old TEPS: 2.90368e+08 1.61409e+08
+Testing n=16 m=194 Results=2.70832e+08 1.40586e+08
+Last contest:
+Testing n=18 m=215 Results=2.94752e+08 1.4118e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 206 17 194 1 1 1 21 2.90368e+08 1.61409e+08
+Round 206 17 194
+Offset 1 1 1 21
+Old TEPS: 2.90368e+08 1.61409e+08
+Last contest:
+Testing n=17 m=215 Results=2.90314e+08 1.61629e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 207 17 215 1 1 1 21 2.90314e+08 1.61629e+08
+Round 207 17 215
+Offset 1 1 1 21
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=18 m=215 Results=2.94527e+08 1.41532e+08
+Last contest:
+Testing n=16 m=236 Results=2.76387e+08 1.42145e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 208 17 215 1 1 1 21 2.90314e+08 1.61629e+08
+Round 208 17 215
+Offset 1 1 1 21
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=18 m=215 Results=2.93816e+08 1.48088e+08
+Testing n=17 m=236 Results=2.90084e+08 1.62089e+08
+Last contest:
+Testing n=16 m=257 Results=2.79303e+08 1.40453e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 209 17 215 1 1 1 42 2.90314e+08 1.61629e+08
+Round 209 17 215
+Offset 1 1 1 42
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=257 Results=2.90394e+08 1.55527e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 210 17 215 1 1 1 42 2.90314e+08 1.61629e+08
+Round 210 17 215
+Offset 1 1 1 42
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=16 m=215 Results=2.74235e+08 1.42228e+08
+Last contest:
+Testing n=18 m=257 Results=2.87914e+08 1.42551e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 211 17 215 1 1 1 42 2.90314e+08 1.61629e+08
+Round 211 17 215
+Offset 1 1 1 42
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=17 m=257 Results=2.90733e+08 1.55765e+08
+Last contest:
+Testing n=17 m=256 Results=2.87339e+08 1.55512e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 212 17 215 1 1 1 41 2.90314e+08 1.61629e+08
+Round 212 17 215
+Offset 1 1 1 41
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=17 m=214 Results=2.90608e+08 1.62754e+08
+Testing n=17 m=256 Results=2.90313e+08 1.55612e+08
+Last contest:
+Testing n=17 m=255 Results=2.90716e+08 1.55545e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 213 17 215 1 1 2 40 2.90314e+08 1.61629e+08
+Round 213 17 215
+Offset 1 1 2 40
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=16 m=215 Results=2.73525e+08 1.43063e+08
+Last contest:
+Testing n=18 m=255 Results=2.94243e+08 1.47841e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 214 17 215 1 1 2 40 2.90314e+08 1.61629e+08
+Round 214 17 215
+Offset 1 1 2 40
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=17 m=213 Results=2.88981e+08 1.624e+08
+Last contest:
+Testing n=17 m=255 Results=2.88801e+08 1.55282e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 215 17 215 1 1 3 40 2.90314e+08 1.61629e+08
+Round 215 17 215
+Offset 1 1 3 40
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=18 m=215 Results=2.94878e+08 1.51525e+08
+Last contest:
+Testing n=16 m=255 Results=2.79372e+08 1.40229e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 216 17 215 1 1 3 40 2.90314e+08 1.61629e+08
+Round 216 17 215
+Offset 1 1 3 40
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=16 m=215 Results=2.73818e+08 1.41578e+08
+Testing n=17 m=255 Results=2.90218e+08 1.54936e+08
+Last contest:
+Testing n=18 m=254 Results=2.93587e+08 1.48194e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 217 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 217 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=254 Results=2.90175e+08 1.55169e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 218 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 218 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=254 Results=2.61819e+08 1.54915e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 219 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 219 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=254 Results=2.89813e+08 1.55814e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 220 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 220 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=254 Results=2.90154e+08 1.54519e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 221 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 221 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=254 Results=2.89737e+08 1.56072e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 222 17 215 1 1 3 39 2.90314e+08 1.61629e+08
+Round 222 17 215
+Offset 1 1 3 39
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=17 m=212 Results=2.92061e+08 1.63223e+08
+Testing n=17 m=254 Results=2.89882e+08 1.54943e+08
+Last contest:
+Testing n=17 m=253 Results=2.8885e+08 1.55627e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 223 17 215 1 1 4 38 2.90314e+08 1.61629e+08
+Round 223 17 215
+Offset 1 1 4 38
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=18 m=215 Results=2.90734e+08 1.47806e+08
+Testing n=17 m=211 Results=2.8893e+08 1.61132e+08
+Testing n=17 m=253 Results=2.89393e+08 1.55199e+08
+Last contest:
+Testing n=16 m=252 Results=2.8085e+08 1.42265e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 224 17 215 1 1 3 37 2.90314e+08 1.61629e+08
+Round 224 17 215
+Offset 1 1 3 37
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=16 m=215 Results=2.73203e+08 1.43385e+08
+Testing n=18 m=215 Results=2.94536e+08 1.48901e+08
+Last contest:
+Testing n=17 m=252 Results=2.75232e+08 1.55068e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 225 17 215 1 1 3 37 2.90314e+08 1.61629e+08
+Round 225 17 215
+Offset 1 1 3 37
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=252 Results=2.90338e+08 1.55356e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 226 17 215 1 1 3 37 2.90314e+08 1.61629e+08
+Round 226 17 215
+Offset 1 1 3 37
+Old TEPS: 2.90314e+08 1.61629e+08
+Testing n=16 m=215 Results=2.7402e+08 1.44401e+08
+Testing n=17 m=252 Results=2.90517e+08 1.55286e+08
+Last contest:
+Testing n=18 m=251 Results=2.8766e+08 1.41657e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 227 17 215 1 1 3 36 2.90314e+08 1.61629e+08
+Round 227 17 215
+Offset 1 1 3 36
+Old TEPS: 2.90314e+08 1.61629e+08
+Last contest:
+Testing n=17 m=251 Results=2.90845e+08 1.6373e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 228 17 251 1 1 3 36 2.90845e+08 1.6373e+08
+Round 228 17 251
+Offset 1 1 3 36
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=287 Results=2.90275e+08 1.55175e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 229 17 251 1 1 3 36 2.90845e+08 1.6373e+08
+Round 229 17 251
+Offset 1 1 3 36
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.94361e+08 1.47531e+08
+Last contest:
+Testing n=16 m=287 Results=2.76285e+08 1.16561e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 230 17 251 1 1 3 36 2.90845e+08 1.6373e+08
+Round 230 17 251
+Offset 1 1 3 36
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.8092e+08 1.41605e+08
+Testing n=18 m=251 Results=2.93189e+08 1.46036e+08
+Last contest:
+Testing n=17 m=287 Results=2.91016e+08 1.47618e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 231 17 251 1 1 3 36 2.90845e+08 1.6373e+08
+Round 231 17 251
+Offset 1 1 3 36
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=287 Results=2.88883e+08 1.55083e+08
+Last contest:
+Testing n=17 m=286 Results=2.83468e+08 1.51302e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 232 17 251 1 1 3 35 2.90845e+08 1.6373e+08
+Round 232 17 251
+Offset 1 1 3 35
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=286 Results=2.89221e+08 1.55058e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 233 17 251 1 1 3 35 2.90845e+08 1.6373e+08
+Round 233 17 251
+Offset 1 1 3 35
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=286 Results=2.91066e+08 1.56049e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 234 17 251 1 1 3 35 2.90845e+08 1.6373e+08
+Round 234 17 251
+Offset 1 1 3 35
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.81203e+08 1.42157e+08
+Last contest:
+Testing n=18 m=286 Results=2.93868e+08 1.40955e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 235 17 251 1 1 3 35 2.90845e+08 1.6373e+08
+Round 235 17 251
+Offset 1 1 3 35
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.81026e+08 1.38944e+08
+Testing n=18 m=251 Results=2.94095e+08 1.46449e+08
+Testing n=17 m=286 Results=2.9011e+08 1.55232e+08
+Last contest:
+Testing n=17 m=285 Results=2.9028e+08 1.56076e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 236 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 236 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=285 Results=2.90723e+08 1.55837e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 237 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 237 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=285 Results=2.89136e+08 1.54246e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 238 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 238 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.79417e+08 1.41172e+08
+Testing n=18 m=251 Results=2.93857e+08 1.42637e+08
+Last contest:
+Testing n=17 m=285 Results=2.89547e+08 1.54964e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 239 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 239 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=285 Results=2.90276e+08 1.56452e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 240 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 240 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.81714e+08 1.42344e+08
+Last contest:
+Testing n=18 m=285 Results=2.94532e+08 1.42324e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 241 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 241 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=285 Results=2.90258e+08 1.54572e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 242 17 251 1 1 3 34 2.90845e+08 1.6373e+08
+Round 242 17 251
+Offset 1 1 3 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.81913e+08 1.40185e+08
+Testing n=18 m=251 Results=2.94739e+08 1.48082e+08
+Testing n=17 m=248 Results=2.89868e+08 1.62985e+08
+Last contest:
+Testing n=17 m=285 Results=2.86595e+08 1.54988e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 243 17 251 1 1 2 34 2.90845e+08 1.6373e+08
+Round 243 17 251
+Offset 1 1 2 34
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.94654e+08 1.48238e+08
+Testing n=17 m=285 Results=2.89742e+08 1.55294e+08
+Last contest:
+Testing n=16 m=284 Results=2.77952e+08 1.17276e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 244 17 251 1 1 2 33 2.90845e+08 1.6373e+08
+Round 244 17 251
+Offset 1 1 2 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.80547e+08 1.41243e+08
+Testing n=17 m=249 Results=2.89578e+08 1.62757e+08
+Last contest:
+Testing n=18 m=284 Results=2.94811e+08 1.4433e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 245 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 245 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=284 Results=2.89198e+08 1.549e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 246 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 246 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=284 Results=2.9003e+08 1.55787e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 247 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 247 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=284 Results=2.8797e+08 1.56194e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 248 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 248 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.8082e+08 1.40602e+08
+Testing n=18 m=251 Results=2.94968e+08 1.4529e+08
+Last contest:
+Testing n=17 m=284 Results=2.89388e+08 1.54499e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 249 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 249 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.80691e+08 1.39691e+08
+Last contest:
+Testing n=18 m=284 Results=2.9412e+08 1.49404e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 250 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 250 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.81402e+08 1.42591e+08
+Last contest:
+Testing n=18 m=284 Results=2.94775e+08 1.38603e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 251 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 251 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=284 Results=2.90601e+08 1.56516e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 252 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 252 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=284 Results=2.90635e+08 1.56123e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 253 17 251 1 1 1 33 2.90845e+08 1.6373e+08
+Round 253 17 251
+Offset 1 1 1 33
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.95172e+08 1.48456e+08
+Testing n=17 m=284 Results=2.90649e+08 1.55523e+08
+Last contest:
+Testing n=16 m=283 Results=2.77728e+08 1.17908e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 254 17 251 1 1 1 32 2.90845e+08 1.6373e+08
+Round 254 17 251
+Offset 1 1 1 32
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.90381e+08 1.42147e+08
+Last contest:
+Testing n=16 m=283 Results=2.73077e+08 1.16716e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 255 17 251 1 1 1 32 2.90845e+08 1.6373e+08
+Round 255 17 251
+Offset 1 1 1 32
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=283 Results=2.88631e+08 1.55888e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 256 17 251 1 1 1 32 2.90845e+08 1.6373e+08
+Round 256 17 251
+Offset 1 1 1 32
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.95281e+08 1.47208e+08
+Testing n=17 m=250 Results=2.9112e+08 1.63093e+08
+Testing n=17 m=283 Results=2.89469e+08 1.56474e+08
+Last contest:
+Testing n=16 m=282 Results=2.76416e+08 1.16172e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 257 17 251 1 1 1 31 2.90845e+08 1.6373e+08
+Round 257 17 251
+Offset 1 1 1 31
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.94095e+08 1.43604e+08
+Testing n=17 m=250 Results=2.89147e+08 1.6083e+08
+Last contest:
+Testing n=16 m=282 Results=2.78165e+08 1.17649e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 258 17 251 1 1 1 31 2.90845e+08 1.6373e+08
+Round 258 17 251
+Offset 1 1 1 31
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.90004e+08 1.61168e+08
+Testing n=17 m=282 Results=2.90633e+08 1.55617e+08
+Last contest:
+Testing n=17 m=281 Results=2.9093e+08 1.57847e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 259 17 251 1 1 1 30 2.90845e+08 1.6373e+08
+Round 259 17 251
+Offset 1 1 1 30
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.90908e+08 1.62733e+08
+Testing n=17 m=281 Results=2.88975e+08 1.56595e+08
+Last contest:
+Testing n=17 m=280 Results=2.90126e+08 1.56438e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 260 17 251 1 1 1 29 2.90845e+08 1.6373e+08
+Round 260 17 251
+Offset 1 1 1 29
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=280 Results=2.91217e+08 1.57161e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 261 17 251 1 1 1 29 2.90845e+08 1.6373e+08
+Round 261 17 251
+Offset 1 1 1 29
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.91174e+08 1.62786e+08
+Last contest:
+Testing n=17 m=280 Results=2.90848e+08 1.57905e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 262 17 251 1 1 1 29 2.90845e+08 1.6373e+08
+Round 262 17 251
+Offset 1 1 1 29
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=280 Results=2.90314e+08 1.56445e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 263 17 251 1 1 1 29 2.90845e+08 1.6373e+08
+Round 263 17 251
+Offset 1 1 1 29
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=280 Results=2.91017e+08 1.56567e+08
+Last contest:
+Testing n=17 m=279 Results=2.89709e+08 1.55385e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 264 17 251 1 1 1 28 2.90845e+08 1.6373e+08
+Round 264 17 251
+Offset 1 1 1 28
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=279 Results=2.89413e+08 1.57075e+08
+Last contest:
+Testing n=17 m=278 Results=2.90679e+08 1.57239e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 265 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 265 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.90671e+08 1.61786e+08
+Last contest:
+Testing n=17 m=278 Results=2.87179e+08 1.55813e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 266 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 266 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.91859e+08 1.46746e+08
+Last contest:
+Testing n=16 m=278 Results=2.79163e+08 1.42615e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 267 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 267 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=278 Results=2.89268e+08 1.56454e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 268 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 268 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.72584e+08 1.38625e+08
+Last contest:
+Testing n=18 m=278 Results=2.95277e+08 1.4783e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 269 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 269 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=278 Results=2.90361e+08 1.54658e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 270 17 251 1 1 1 27 2.90845e+08 1.6373e+08
+Round 270 17 251
+Offset 1 1 1 27
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=278 Results=2.8551e+08 1.56102e+08
+Last contest:
+Testing n=17 m=277 Results=2.90352e+08 1.55803e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 271 17 251 1 1 1 26 2.90845e+08 1.6373e+08
+Round 271 17 251
+Offset 1 1 1 26
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.95286e+08 1.47349e+08
+Testing n=17 m=277 Results=2.91099e+08 1.57106e+08
+Last contest:
+Testing n=16 m=276 Results=2.78474e+08 1.40769e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 272 17 251 1 1 1 25 2.90845e+08 1.6373e+08
+Round 272 17 251
+Offset 1 1 1 25
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=276 Results=2.89878e+08 1.56553e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 273 17 251 1 1 1 25 2.90845e+08 1.6373e+08
+Round 273 17 251
+Offset 1 1 1 25
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.94948e+08 1.43646e+08
+Testing n=17 m=250 Results=2.9102e+08 1.63594e+08
+Last contest:
+Testing n=16 m=276 Results=2.78203e+08 1.41303e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 274 17 251 1 1 1 25 2.90845e+08 1.6373e+08
+Round 274 17 251
+Offset 1 1 1 25
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.79084e+08 1.4092e+08
+Last contest:
+Testing n=18 m=276 Results=2.94894e+08 1.49252e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 275 17 251 1 1 1 25 2.90845e+08 1.6373e+08
+Round 275 17 251
+Offset 1 1 1 25
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.89812e+08 1.63505e+08
+Last contest:
+Testing n=17 m=276 Results=2.90423e+08 1.56109e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 276 17 251 1 1 1 25 2.90845e+08 1.6373e+08
+Round 276 17 251
+Offset 1 1 1 25
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=276 Results=2.90155e+08 1.55751e+08
+Last contest:
+Testing n=17 m=275 Results=2.88662e+08 1.55469e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 277 17 251 1 1 1 24 2.90845e+08 1.6373e+08
+Round 277 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.94848e+08 1.43866e+08
+Last contest:
+Testing n=16 m=275 Results=2.78262e+08 1.40942e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 278 17 251 1 1 1 24 2.90845e+08 1.6373e+08
+Round 278 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=/var/lib/torque/mom_priv/jobs/71680.mu01.SC: line 14:  8888 Terminated              ./one_round.sh 2

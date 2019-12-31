@@ -1,0 +1,93 @@
+Round 54 20 354
+Offset 1 2 1 4
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=20 m=358 Results=3.14844e+08 1.58982e+08
+Last contest:
+Testing n=22 m=362 Results=3.07656e+08 1.06692e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 55 20 354 1 2 1 8 3.13033e+08 1.55952e+08
+Round 55 20 354
+Offset 1 2 1 8
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=20 m=353 Results=3.11931e+08 1.55667e+08
+Testing n=20 m=362 Results=3.07582e+08 1.56578e+08
+Last contest:
+Testing n=22 m=361 Results=3.01826e+08 1.05792e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 56 20 354 1 2 1 7 3.13033e+08 1.55952e+08
+Round 56 20 354
+Offset 1 2 1 7
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=20 m=353 Results=3.06148e+08 1.57762e+08
+Testing n=20 m=361 Results=3.10508e+08 1.57966e+08
+Last contest:
+Testing n=22 m=360 Results=3.08577e+08 1.0624e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 57 20 354 1 2 1 6 3.13033e+08 1.55952e+08
+Round 57 20 354
+Offset 1 2 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=22 m=360 Results=3.07763e+08 1.06761e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 58 20 354 1 2 1 6 3.13033e+08 1.55952e+08
+Round 58 20 354
+Offset 1 2 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=22 m=360 Results=3.07746e+08 1.06665e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 59 20 354 1 2 1 6 3.13033e+08 1.55952e+08
+Round 59 20 354
+Offset 1 2 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=22 m=354 Results=2.59264e+08 1.0701e+08
+Last contest:
+Testing n=20 m=360 Results=3.09311e+08 1.59361e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 60 20 354 1 1 1 6 3.13033e+08 1.55952e+08
+Round 60 20 354
+Offset 1 1 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=360 Results=3.12026e+08 1.57757e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 61 20 354 1 1 1 6 3.13033e+08 1.55952e+08
+Round 61 20 354
+Offset 1 1 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=360 Results=3.04578e+08 1.5688e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 62 20 354 1 1 1 6 3.13033e+08 1.55952e+08
+Round 62 20 354
+Offset 1 1 1 6
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=20 m=353 Results=3.07346e+08 1.58876e+08
+Testing n=20 m=360 Results=3.12563e+08 1.57211e+08
+Last contest:
+Testing n=20 m=359 Results=3.12969e+08 1.57267e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 63 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 63 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=19 m=354 Results=3.12889e+08 1.5937e+08
+Last contest:
+Testing n=21 m=359 Results=3.14513e+08 1.36986e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 64 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 64 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.11445e+08 1.58751e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 65 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 65 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=21 m=354 Results=3.15239e+08 1.40095e+08
+Testing n=20 m=359 Results=3.12981e+08 1.57876e+08
+Last contest:
+Testing n=22 m=358 Results==>> PBS: job killed: walltime 1821 exceeded limit 1800

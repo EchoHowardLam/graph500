@@ -1,0 +1,97 @@
+Round 143 17 129
+Offset 1 1 1 1
+Old TEPS: 2.79653e+08 1.5134e+08
+Last contest:
+Testing n=17 m=129 Results=2.90096e+08 1.52379e+08
+./one_round.sh: line 91: [: missing `]'
+New CheckPoint: 144 17 129 1 1 1 1 2.90096e+08 1.52379e+08
+Round 144 17 129
+Offset 1 1 1 1
+Old TEPS: 2.90096e+08 1.52379e+08
+Last contest:
+Testing n=17 m=129 Results=2.9087e+08 1.53632e+08
+./one_round.sh: line 91: [: missing `]'
+New CheckPoint: 145 17 129 1 1 1 1 2.9087e+08 1.53632e+08
+Round 145 17 129
+Offset 1 1 1 1
+Old TEPS: 2.9087e+08 1.53632e+08
+Testing n=17 m=128 Results=2.88944e+08 1.51773e+08
+Last contest:
+Testing n=17 m=130 Results=2.9053e+08 1.54543e+08
+./one_round.sh: line 91: [: missing `]'
+New CheckPoint: 146 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 146 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=130 Results=2.9048e+08 1.54121e+08
+New CheckPoint: 147 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 147 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=17 m=131 Results=2.91033e+08 1.54478e+08
+Last contest:
+Testing n=17 m=129 Results=2.91085e+08 1.53798e+08
+New CheckPoint: 148 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 148 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=130 Results=2.90927e+08 1.5206e+08
+New CheckPoint: 149 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 149 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=17 m=131 Results=2.89136e+08 1.53957e+08
+Last contest:
+Testing n=17 m=129 Results=2.89892e+08 1.52123e+08
+New CheckPoint: 150 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 150 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=130 Results=2.72472e+08 1.47696e+08
+New CheckPoint: 151 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 151 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.67594e+08 1.15883e+08
+Testing n=17 m=131 Results=2.8864e+08 1.54744e+08
+Last contest:
+Testing n=18 m=132 Results=2.894e+08 1.26151e+08
+New CheckPoint: 152 17 130 1 1 1 2 2.9053e+08 1.54543e+08
+Round 152 17 130
+Offset 1 1 1 2
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=18 m=130 Results=2.93911e+08 1.40575e+08
+Last contest:
+Testing n=16 m=132 Results=2.6788e+08 1.18967e+08
+New CheckPoint: 153 17 130 1 1 1 2 2.9053e+08 1.54543e+08
+Round 153 17 130
+Offset 1 1 1 2
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.67426e+08 1.16984e+08
+Testing n=17 m=129 Results=2.91416e+08 1.54045e+08
+Last contest:
+Testing n=18 m=132 Results=2.92295e+08 1.40773e+08
+New CheckPoint: 154 17 130 1 1 1 2 2.9053e+08 1.54543e+08
+Round 154 17 130
+Offset 1 1 1 2
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=18 m=130 Results=2.91711e+08 1.3921e+08
+Last contest:
+Testing n=16 m=132 Results=2.66288e+08 1.14131e+08
+New CheckPoint: 155 17 130 1 1 1 2 2.9053e+08 1.54543e+08
+Round 155 17 130
+Offset 1 1 1 2
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=17 m=132 Results=2.89365e+08 1.52707e+08
+Last contest:
+Testing n=17 m=130 Results=2.90229e+08 1.54688e+08
+./one_round.sh: line 91: [: missing `]'
+New CheckPoint: 156 17 130 1 1 1 1 2.90229e+08 1.54688e+08
+Round 156 17 130
+Offset 1 1 1 1
+Old TEPS: 2.90229e+08 1.54688e+08
+Last contest:
+Testing n=17 m=130 Results=

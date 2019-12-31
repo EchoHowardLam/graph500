@@ -1,0 +1,27 @@
+Round 63 22 266
+Offset 1 1 3 9
+Old TEPS: 2.97064e+08 1.05064e+08
+Testing 21 266 3.05427e+08 1.37292e+08
+Testing 23 266 2.96518e+08 9.06241e+07
+Testing 22 263 3.11106e+08 1.03105e+08
+Testing 22 275 2.97605e+08 1.03866e+08
+Testing 20 276 2.93184e+08 1.51137e+08
+New CheckPoint: 64 20 276 2 1 4 10 2.93184e+08 1.51137e+08
+Round 64 20 276
+Offset 2 1 4 10
+Old TEPS: 2.93184e+08 1.51137e+08
+Testing 18 276 2.69363e+08 1.39841e+08
+Testing 21 276 3.05089e+08 1.37643e+08
+Testing 20 272 3.0189e+08 1.51986e+08
+Testing 20 286 3.03987e+08 1.51421e+08
+Testing 22 287 2.86745e+08 1.07302e+08
+New CheckPoint: 65 22 287 1 2 5 11 2.86745e+08 1.07302e+08
+Round 65 22 287
+Offset 1 2 5 11
+Old TEPS: 2.86745e+08 1.07302e+08
+Testing 21 287 2.66636e+08 1.22753e+08
+Testing 24 287
+./one_round.sh: line 29: [: : integer expression expected
+Testing 22 282 2.98262e+08 1.02408e+08
+Testing 22 298 2.88206e+08 1.06628e+08
+=>> PBS: job killed: walltime 1813 exceeded limit 1800

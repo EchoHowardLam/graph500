@@ -1,0 +1,33 @@
+Round 1 22 287
+Offset 1 2 5 11
+Old TEPS: 2.86745e+08 1.07302e+08
+Testing n=21 m=287 Results=3.0568e+08 1.3469e+08
+Testing n=24 m=287 Results=0e1 0e1
+Testing n=22 m=282 Results=3.02174e+08 1.03692e+08
+Last contest:
+Testing n=20 m=298 Results=2.99698e+08 1.51444e+08
+New CheckPoint: 2 20 298 2 1 6 11 2.99698e+08 1.51444e+08
+Round 2 20 298
+Offset 2 1 6 11
+Old TEPS: 2.99698e+08 1.51444e+08
+Testing n=18 m=298 Results=2.74333e+08 1.39674e+08
+Testing n=20 m=292 Results=2.96382e+08 1.52683e+08
+Last contest:
+Testing n=20 m=309 Results=2.93247e+08 1.49577e+08
+New CheckPoint: 3 20 298 1 1 5 11 2.99698e+08 1.51444e+08
+Round 3 20 298
+Offset 1 1 5 11
+Old TEPS: 2.99698e+08 1.51444e+08
+Testing n=19 m=298 Results=3.02554e+08 1.50294e+08
+Testing n=21 m=298 Results=3.00673e+08 1.34471e+08
+Testing n=20 m=309 Results=3.04435e+08 1.49213e+08
+Last contest:
+Testing n=20 m=310 Results=2.80277e+08 1.49019e+08
+New CheckPoint: 4 20 298 2 2 5 12 2.99698e+08 1.51444e+08
+Round 4 20 298
+Offset 2 2 5 12
+Old TEPS: 2.99698e+08 1.51444e+08
+Testing n=20 m=293 Results=2.92722e+08 1.52578e+08
+Testing n=20 m=310 Results=3.052e+08 1.4996e+08
+Last contest:
+Testing n=20 m=311 Results=

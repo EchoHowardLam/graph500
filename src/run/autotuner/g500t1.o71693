@@ -1,0 +1,60 @@
+Round 65 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=19 m=354 Results=3.12826e+08 1.60536e+08
+Testing n=20 m=353 Results=3.12974e+08 1.58259e+08
+Last contest:
+Testing n=21 m=359 Results=3.13805e+08 1.40265e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 66 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 66 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.01844e+08 1.56151e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 67 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 67 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=20 m=353 Results=3.09973e+08 1.57173e+08
+Last contest:
+Testing n=20 m=359 Results=3.11029e+08 1.55413e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 68 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 68 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.0791e+08 1.58364e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 69 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 69 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.13029e+08 1.58349e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 70 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 70 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.1128e+08 1.5833e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 71 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 71 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Last contest:
+Testing n=20 m=359 Results=3.10392e+08 1.58267e+08
+./one_round.sh: line 91: 3.13033e+08: syntax error: invalid arithmetic operator (error token is ".13033e+08")
+New CheckPoint: 72 20 354 1 1 1 5 3.13033e+08 1.55952e+08
+Round 72 20 354
+Offset 1 1 1 5
+Old TEPS: 3.13033e+08 1.55952e+08
+Testing n=21 m=354 Results=3.14196e+08 1.39506e+08
+Testing n=20 m=353 Results=3.04699e+08 1.57116e+08
+Testing n=20 m=359 Results=3.08114e+08 1.57724e+08
+Last contest:
+Testing n=22 m=358 Results=

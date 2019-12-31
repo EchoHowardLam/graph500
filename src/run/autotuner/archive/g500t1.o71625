@@ -1,0 +1,20 @@
+Round 19 24 27
+Offset 2 3 3 2
+Old TEPS: 2.603e+08 8.45994e+07
+Testing 22 27 2.64443e+08 1.00617e+08
+Testing 27 27
+./one_round.sh: line 29: [: : integer expression expected
+Testing 24 24 2.62297e+08 8.21398e+07
+Testing 24 29 2.69921e+08 8.51973e+07
+Testing 28 23
+New CheckPoint: 20 28 23 3 4 4 3
+Round 20 28 23
+Offset 3 4 4 3
+Old TEPS:
+Testing 25 23 2.58525e+08 9.43591e+07
+./one_round.sh: line 29: [: : integer expression expected
+Testing 32 23
+./one_round.sh: line 29: [: : integer expression expected
+Testing 28 19
+./one_round.sh: line 29: [: : integer expression expected
+=>> PBS: job killed: walltime 1813 exceeded limit 1800

@@ -1,0 +1,29 @@
+Round 166 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9009e+08 1.55163e+08
+Testing n=16 m=130 Results=2.67594e+08 1.15925e+08
+Last contest:
+Testing n=18 m=130 Results=2.93926e+08 1.38409e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 167 17 130 1 1 1 1 2.9009e+08 1.55163e+08
+Round 167 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9009e+08 1.55163e+08
+Testing n=16 m=130 Results=2.6618e+08 1.15199e+08
+Last contest:
+Testing n=18 m=130 Results=2.9346e+08 1.37766e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 168 17 130 1 1 1 1 2.9009e+08 1.55163e+08
+Round 168 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9009e+08 1.55163e+08
+Testing n=18 m=130 Results=2.92246e+08 1.41187e+08
+Last contest:
+Testing n=16 m=130 Results=2.68082e+08 1.17922e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 169 17 130 1 1 1 1 2.9009e+08 1.55163e+08
+Round 169 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9009e+08 1.55163e+08
+Last contest:
+Testing n=17 m=130 Results=

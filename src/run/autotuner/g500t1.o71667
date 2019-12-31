@@ -1,0 +1,21 @@
+Round 4 20 298
+Offset 2 2 5 12
+Old TEPS: 2.99698e+08 1.51444e+08
+Testing n=18 m=298 Results=2.89255e+08 1.40331e+08
+Testing n=22 m=298 Results=2.96697e+08 1.08477e+08
+Last contest:
+Testing n=20 m=310 Results=2.99448e+08 1.49718e+08
+New CheckPoint: 5 20 310 1 1 5 12 2.99448e+08 1.49718e+08
+Round 5 20 310
+Offset 1 1 5 12
+Old TEPS: 2.99448e+08 1.49718e+08
+Testing n=20 m=322 Results=3.0049e+08 1.51066e+08
+Last contest:
+Testing n=20 m=323 Results=3.01924e+08 1.50969e+08
+New CheckPoint: 6 20 323 1 1 5 13 3.01924e+08 1.50969e+08
+Round 6 20 323
+Offset 1 1 5 13
+Old TEPS: 3.01924e+08 1.50969e+08
+Testing n=21 m=323 Results=2.93004e+08 1.33169e+08
+Last contest:
+Testing n=19 m=336 Results=

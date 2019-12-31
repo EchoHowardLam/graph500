@@ -1,0 +1,90 @@
+Round 278 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=250 Results=2.90694e+08 1.62836e+08
+Last contest:
+Testing n=17 m=275 Results=2.89336e+08 1.56367e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 279 17 251 1 1 1 24 2.90845e+08 1.6373e+08
+Round 279 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=275 Results=2.8972e+08 1.56525e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 280 17 251 1 1 1 24 2.90845e+08 1.6373e+08
+Round 280 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.93933e+08 1.47112e+08
+Last contest:
+Testing n=16 m=275 Results=2.77375e+08 1.40993e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 281 17 251 1 1 1 24 2.90845e+08 1.6373e+08
+Round 281 17 251
+Offset 1 1 1 24
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=275 Results=2.90615e+08 1.57546e+08
+Last contest:
+Testing n=17 m=274 Results=2.64683e+08 1.56685e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 282 17 251 1 1 1 23 2.90845e+08 1.6373e+08
+Round 282 17 251
+Offset 1 1 1 23
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.8157e+08 1.41899e+08
+Testing n=18 m=251 Results=2.95345e+08 1.46699e+08
+Testing n=17 m=250 Results=2.9112e+08 1.63072e+08
+Last contest:
+Testing n=17 m=274 Results=2.89956e+08 1.56562e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 283 17 251 1 1 1 23 2.90845e+08 1.6373e+08
+Round 283 17 251
+Offset 1 1 1 23
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=17 m=274 Results=2.89385e+08 1.57104e+08
+Last contest:
+Testing n=17 m=273 Results=2.90901e+08 1.56353e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 284 17 251 1 1 1 22 2.90845e+08 1.6373e+08
+Round 284 17 251
+Offset 1 1 1 22
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=18 m=251 Results=2.9425e+08 1.43647e+08
+Last contest:
+Testing n=16 m=273 Results=2.79027e+08 1.42199e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 285 17 251 1 1 1 22 2.90845e+08 1.6373e+08
+Round 285 17 251
+Offset 1 1 1 22
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.79322e+08 1.41952e+08
+Testing n=18 m=251 Results=2.94675e+08 1.48293e+08
+Testing n=17 m=273 Results=2.89508e+08 1.56585e+08
+Last contest:
+Testing n=17 m=272 Results=2.84496e+08 1.52937e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 286 17 251 1 1 1 21 2.90845e+08 1.6373e+08
+Round 286 17 251
+Offset 1 1 1 21
+Old TEPS: 2.90845e+08 1.6373e+08
+Last contest:
+Testing n=17 m=272 Results=2.88823e+08 1.55787e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 287 17 251 1 1 1 21 2.90845e+08 1.6373e+08
+Round 287 17 251
+Offset 1 1 1 21
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.75019e+08 1.37731e+08
+Last contest:
+Testing n=18 m=272 Results=2.94309e+08 1.44039e+08
+./one_round.sh: line 91: 2.90845e+08: syntax error: invalid arithmetic operator (error token is ".90845e+08")
+New CheckPoint: 288 17 251 1 1 1 21 2.90845e+08 1.6373e+08
+Round 288 17 251
+Offset 1 1 1 21
+Old TEPS: 2.90845e+08 1.6373e+08
+Testing n=16 m=251 Results=2.80833e+08 1.38811e+08
+Testing n=17 m=250 Results=2.90573e+08 1.62711e+08
+Testing n=17 m=272 Results=2.90147e+08 1.55426e+08
+Last contest:
+Testing n=18 m=271 Results=

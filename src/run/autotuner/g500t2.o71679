@@ -1,0 +1,62 @@
+Round 146 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.6598e+08 1.19712e+08
+Last contest:
+Testing n=18 m=130 Results=2.93217e+08 1.27894e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 147 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 147 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=130 Results=2.89297e+08 1.54329e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 148 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 148 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.66355e+08 1.15977e+08
+Testing n=18 m=130 Results=2.93326e+08 1.3185e+08
+Testing n=17 m=131 Results=2.89668e+08 1.53969e+08
+Last contest:
+Testing n=17 m=129 Results=2.89565e+08 1.53678e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 149 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 149 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=17 m=131 Results=2.90206e+08 1.54347e+08
+Last contest:
+Testing n=17 m=129 Results=2.83048e+08 1.50288e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 150 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 150 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Last contest:
+Testing n=17 m=130 Results=2.89602e+08 1.53413e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 151 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 151 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=18 m=130 Results=2.94408e+08 1.40582e+08
+Last contest:
+Testing n=16 m=130 Results=2.66488e+08 1.16644e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 152 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 152 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=16 m=130 Results=2.6714e+08 1.15835e+08
+Testing n=18 m=130 Results=2.93789e+08 1.29609e+08
+Testing n=17 m=129 Results=2.89144e+08 1.53171e+08
+Last contest:
+Testing n=17 m=131 Results=2.9058e+08 1.54364e+08
+./one_round.sh: line 90: [: missing `]'
+New CheckPoint: 153 17 130 1 1 1 1 2.9053e+08 1.54543e+08
+Round 153 17 130
+Offset 1 1 1 1
+Old TEPS: 2.9053e+08 1.54543e+08
+Testing n=17 m=129 Results=

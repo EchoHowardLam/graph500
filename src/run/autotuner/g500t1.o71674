@@ -1,0 +1,15 @@
+Round 41 18 342
+Offset 1 1 1 6
+Old TEPS: 3.05066e+08 1.41452e+08
+Testing n=19 m=342 Results=3.08651e+08 1.57951e+08
+Testing n=18 m=341 Results=2.92167e+08 1.535e+08
+Last contest:
+Testing n=20 m=348 Results=3.09666e+08 1.55782e+08
+./one_round.sh: line 91: [: missing `]'
+New CheckPoint: 42 20 348 1 2 1 6 3.09666e+08 1.55782e+08
+Round 42 20 348
+Offset 1 2 1 6
+Old TEPS: 3.09666e+08 1.55782e+08
+Testing n=19 m=348 Results=3.13255e+08 1.60328e+08
+Last contest:
+Testing n=20 m=354 Results=
